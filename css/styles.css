@@ -1,21 +1,17 @@
 body {
         margin: 0px;
 }
-
 .about {
         background-color: grey;
 }
-
 .bar {
         background-color: grey;
         opacity: 100%;
 }
-
 .pad {
         margin-left: 350px;
         margin-right: 350px;
 }
-
 body, html {
         hight: 100%;
         margin 0;
@@ -25,7 +21,6 @@ body, html {
         line-height: 1.8em;
         color: #666;
 }
-
 .pimg1, .pimg2, .pimg3 {
         position: relative;
         opacity: 0.70;
@@ -35,7 +30,6 @@ body, html {
 
         background-attachment: fixed;
 }
-
 .pimg1 {
         background-image:  url('../images/fog1.jpg');
         min-height: 400px;
@@ -44,7 +38,6 @@ body, html {
         width: 100%;
         object-fit: contain
 }
-
 .pimg2 {
         background-image:  url('../images/fog2.jpg');
         min-height: 400px;
@@ -61,22 +54,17 @@ body, html {
         width: 100%;
         object-fit: contain
 }
-
 .section {
-        /*text-align: center;*/
         padding: 50px 80px;
 }
-
 .section-light{
         background: #f4f4f4;
         color: #666;
 }
-
 .section-dark{
         background-color: #282e34;
         color: #ddd;
 }
-
 .ptext{
         position: absolute;
         top:50%;
@@ -87,23 +75,19 @@ body, html {
         letter-spacing: 8px;
         text-transform: uppercase;
 }
-
 .ptext .border{
         background-color: #111;
         color: #fff;
         padding: 20px;
 }
-
 .ptext .border.trans{
   background-color:transparent;
 }
-
 @media (max-width: 568px) {
         .pimg1, .pimg2, .pimg3 {
                 background-attachment: scroll;
         }
 }
-
 .status-bar{
   position: fixed;
   width: 100%;
@@ -118,26 +102,21 @@ body, html {
   padding-right: 1%;
   padding-top: 1%;
 }
-
 .status-bar a {
         font-family:"Lato", sans-serif !important;
 }
-
 .image-left {
         float: left;
 }
 .image-right {
         float: right;
 }
-
 strong {
         color: #681e19;
 }
-
 .move-soundcloud {
         margin-left: 435px;
 }
-
 .rafa {
         color: #505f77;
 }

@@ -2,6 +2,15 @@ body {
         margin: 0px;
 }
 
+.about {
+        background-color: grey;
+}
+
+.bar {
+        background-color: grey;
+        opacity: 100%;
+}
+
 body, html {
         hight: 100%;
         margin 0;
@@ -88,4 +97,23 @@ body, html {
         .pimg1, .pimg2, .pimg3 {
                 background-attachment: scroll;
         }
+}
+
+.status-bar{
+  position: fixed;
+  width: 100%;
+  height: 60px;
+  background-color: #516B73;
+  z-index: 500;
+  text-align: center;
+  word-spacing: 50px;
+  font-size: 30px;
+
+  padding-left:  1%;
+  padding-right: 1%;
+  padding-top: 1%;
+}
+
+.status-bar a {
+        font-family:"Lato", sans-serif !important;
 }

@@ -6,11 +6,13 @@
 
 ## Description
 
-This is a portfolio page for Rafael Furry
+This is a portfolio page for Rafael Furry.
+
+https://bullthistle.github.io/portfolio/
 
 ## Setup/Installation Requirements
 
-Clone this repo.
+Clone this repo. Open index.html.
 
 ## Technologies Used
 HTML
@@ -19,4 +21,4 @@ CSS
 
 ### License
 
-No license
+© Copyright Rafael Furry 2017
